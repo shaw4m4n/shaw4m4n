@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- I'm passionate about CyberSecurity and Technology.
+- Currently learing through labs, certification, and projects.
+
+- Active on TryHackMe - Top 1%.
+<img src="https://tryhackme-badges.s3.amazonaws.com/shaw4m4n.png" alt="Aman's Tryhackme Badge" />
+
+- 🏡 Homepage: shaw4m4n.github.io
 <!--
 **shaw4m4n/shaw4m4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
